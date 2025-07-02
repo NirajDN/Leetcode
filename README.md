@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/NirajDN/Leetcode/tree/master/0383-ransom-note) |
 | [1508-longest-happy-prefix](https://github.com/NirajDN/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/NirajDN/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/NirajDN/Leetcode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/NirajDN/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
