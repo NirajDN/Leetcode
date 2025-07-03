@@ -41,5 +41,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/NirajDN/Leetcode/tree/master/0051-n-queens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/NirajDN/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/NirajDN/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
