@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NirajDN/Leetcode/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [2876-number-of-employees-who-met-the-target](https://github.com/NirajDN/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 <!---LeetCode Topics End-->
