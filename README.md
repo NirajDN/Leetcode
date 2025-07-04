@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NirajDN/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/NirajDN/Leetcode/tree/master/0051-n-queens) |
 | [0217-contains-duplicate](https://github.com/NirajDN/Leetcode/tree/master/0217-contains-duplicate) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/NirajDN/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/NirajDN/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Backtracking
 |  |
@@ -57,4 +58,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/NirajDN/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/NirajDN/Leetcode/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/NirajDN/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/NirajDN/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/NirajDN/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/NirajDN/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/NirajDN/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/NirajDN/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
