@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NirajDN/Leetcode/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/NirajDN/Leetcode/tree/master/0383-ransom-note) |
 | [1508-longest-happy-prefix](https://github.com/NirajDN/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NirajDN/Leetcode/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/NirajDN/Leetcode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -41,10 +43,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NirajDN/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/NirajDN/Leetcode/tree/master/0051-n-queens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/NirajDN/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/NirajDN/Leetcode/tree/master/0051-n-queens) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/NirajDN/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
