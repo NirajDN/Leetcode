@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/NirajDN/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/NirajDN/Leetcode/tree/master/0051-n-queens) |
+| [0162-find-peak-element](https://github.com/NirajDN/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NirajDN/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/NirajDN/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NirajDN/Leetcode/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/NirajDN/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/NirajDN/Leetcode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NirajDN/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Divide and Conquer
