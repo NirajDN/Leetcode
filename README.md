@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NirajDN/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/NirajDN/Leetcode/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/NirajDN/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/NirajDN/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NirajDN/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/NirajDN/Leetcode/tree/master/0383-ransom-note) |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NirajDN/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/NirajDN/Leetcode/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/NirajDN/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
