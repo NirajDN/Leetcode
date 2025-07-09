@@ -114,6 +114,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/NirajDN/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NirajDN/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -132,5 +133,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/NirajDN/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NirajDN/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
