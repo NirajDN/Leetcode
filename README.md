@@ -121,11 +121,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NirajDN/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/NirajDN/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -144,6 +146,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NirajDN/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1582-design-browser-history](https://github.com/NirajDN/Leetcode/tree/master/1582-design-browser-history) |
@@ -170,7 +173,12 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/NirajDN/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NirajDN/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
