@@ -129,6 +129,7 @@
 | [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/NirajDN/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NirajDN/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1582-design-browser-history](https://github.com/NirajDN/Leetcode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NirajDN/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1582-design-browser-history](https://github.com/NirajDN/Leetcode/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -170,4 +172,5 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/NirajDN/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NirajDN/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
