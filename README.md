@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0221-maximal-square](https://github.com/NirajDN/Leetcode/tree/master/0221-maximal-square) |
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NirajDN/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1582-design-browser-history](https://github.com/NirajDN/Leetcode/tree/master/1582-design-browser-history) |
@@ -181,4 +182,9 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0221-maximal-square](https://github.com/NirajDN/Leetcode/tree/master/0221-maximal-square) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/NirajDN/Leetcode/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
