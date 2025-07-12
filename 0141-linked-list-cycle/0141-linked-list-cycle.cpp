@@ -16,8 +16,9 @@ public:
 
         while (slow != fast) {
             if (!fast || !fast->next) return false;
-            slow = slow->next;
-            fast = fast->next->next;
+            slow=slow->next;
+            fast=fast->next->next;
+           
         }
 
         return true;
