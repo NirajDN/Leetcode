@@ -150,11 +150,13 @@
 | [0141-linked-list-cycle](https://github.com/NirajDN/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NirajDN/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NirajDN/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/NirajDN/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0169-majority-element](https://github.com/NirajDN/Leetcode/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/NirajDN/Leetcode/tree/master/0221-maximal-square) |
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NirajDN/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -225,4 +227,16 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NirajDN/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NirajDN/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NirajDN/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NirajDN/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
