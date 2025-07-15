@@ -109,10 +109,14 @@
 > _Stay consistent. Solve daily. Become unstoppable._ 💪  
 > ― NirajDN
 
+---
+
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
+
+## LeetCode Topics
+
+### Linked List
+| Problem |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NirajDN/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/NirajDN/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -121,8 +125,9 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/NirajDN/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1582-design-browser-history](https://github.com/NirajDN/Leetcode/tree/master/1582-design-browser-history) |
-## Two Pointers
-|  |
+
+### Two Pointers
+| Problem |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NirajDN/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NirajDN/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -131,8 +136,9 @@
 | [0142-linked-list-cycle-ii](https://github.com/NirajDN/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NirajDN/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
-## Stack
-|  |
+
+### Stack
+| Problem |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -140,12 +146,14 @@
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NirajDN/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1582-design-browser-history](https://github.com/NirajDN/Leetcode/tree/master/1582-design-browser-history) |
-## Recursion
-|  |
+
+### Recursion
+| Problem |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
-## Hash Table
-|  |
+
+### Hash Table
+| Problem |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/NirajDN/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/NirajDN/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -153,8 +161,9 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/NirajDN/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/NirajDN/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
-## Array
-|  |
+
+### Array
+| Problem |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/NirajDN/Leetcode/tree/master/0169-majority-element) |
@@ -162,96 +171,116 @@
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NirajDN/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1582-design-browser-history](https://github.com/NirajDN/Leetcode/tree/master/1582-design-browser-history) |
-## Design
-|  |
+
+### Design
+| Problem |
 | ------- |
 | [1582-design-browser-history](https://github.com/NirajDN/Leetcode/tree/master/1582-design-browser-history) |
-## Doubly-Linked List
-|  |
+
+### Doubly-Linked List
+| Problem |
 | ------- |
 | [1582-design-browser-history](https://github.com/NirajDN/Leetcode/tree/master/1582-design-browser-history) |
-## Data Stream
-|  |
+
+### Data Stream
+| Problem |
 | ------- |
 | [1582-design-browser-history](https://github.com/NirajDN/Leetcode/tree/master/1582-design-browser-history) |
-## String
-|  |
+
+### String
+| Problem |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NirajDN/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/NirajDN/Leetcode/tree/master/0316-remove-duplicate-letters) |
-## Greedy
-|  |
+
+### Greedy
+| Problem |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/NirajDN/Leetcode/tree/master/0316-remove-duplicate-letters) |
-## Monotonic Stack
-|  |
+
+### Monotonic Stack
+| Problem |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/NirajDN/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/NirajDN/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NirajDN/Leetcode/tree/master/0503-next-greater-element-ii) |
-## Dynamic Programming
-|  |
+
+### Dynamic Programming
+| Problem |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0221-maximal-square](https://github.com/NirajDN/Leetcode/tree/master/0221-maximal-square) |
-## Matrix
-|  |
+
+### Matrix
+| Problem |
 | ------- |
 | [0221-maximal-square](https://github.com/NirajDN/Leetcode/tree/master/0221-maximal-square) |
-## Binary Search
-|  |
+
+### Binary Search
+| Problem |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/NirajDN/Leetcode/tree/master/0222-count-complete-tree-nodes) |
-## Bit Manipulation
-|  |
+
+### Bit Manipulation
+| Problem |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/NirajDN/Leetcode/tree/master/0222-count-complete-tree-nodes) |
-## Tree
-|  |
+
+### Tree
+| Problem |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NirajDN/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/NirajDN/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
-## Binary Tree
-|  |
+
+### Binary Tree
+| Problem |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NirajDN/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/NirajDN/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
-## Depth-First Search
-|  |
+
+### Depth-First Search
+| Problem |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NirajDN/Leetcode/tree/master/0199-binary-tree-right-side-view) |
-## Breadth-First Search
-|  |
+
+### Breadth-First Search
+| Problem |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NirajDN/Leetcode/tree/master/0199-binary-tree-right-side-view) |
-## Divide and Conquer
-|  |
+
+### Divide and Conquer
+| Problem |
 | ------- |
 | [0169-majority-element](https://github.com/NirajDN/Leetcode/tree/master/0169-majority-element) |
-## Sorting
-|  |
+
+### Sorting
+| Problem |
 | ------- |
 | [0169-majority-element](https://github.com/NirajDN/Leetcode/tree/master/0169-majority-element) |
-## Counting
-|  |
+
+### Counting
+| Problem |
 | ------- |
 | [0169-majority-element](https://github.com/NirajDN/Leetcode/tree/master/0169-majority-element) |
-## String Matching
-|  |
+
+### String Matching
+| Problem |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NirajDN/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Binary Search Tree
-|  |
+
+### Binary Search Tree
+| Problem |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+
 <!---LeetCode Topics End-->
