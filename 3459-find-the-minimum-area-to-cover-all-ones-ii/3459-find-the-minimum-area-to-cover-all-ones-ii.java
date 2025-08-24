@@ -8,13 +8,11 @@ class Solution {
         
         int ans = Integer.MAX_VALUE/3;
         
-        // horizontal slice
         for(int i = 0;i<n-1;i++) {
             ans = Math.min(ans, Math.min(oneRectMaxArea(0,0,i,m-1) + twoRectMaxArea(i+1,0, n-1, m-1),
                                         twoRectMaxArea(0,0,i,m-1) + oneRectMaxArea(i+1,0, n-1, m-1)));
         }
         
-        // vertical slice
         for(int j = 0;j<m-1;j++) {
             ans = Math.min(ans, Math.min(oneRectMaxArea(0, 0, n-1, j) + twoRectMaxArea(0, j+1, n-1, m-1),
                                         twoRectMaxArea(0, 0, n-1, j) + oneRectMaxArea(0, j+1, n-1, m-1)));
@@ -24,13 +22,12 @@ class Solution {
     }
     
     public int twoRectMaxArea(int x, int y, int p, int q) {
-        // horizontal slice
+
         int ans = Integer.MAX_VALUE/2;
         for(int i = x;i<p;i++) {
             ans = Math.min(ans, oneRectMaxArea(x,y,i,q) + oneRectMaxArea(i+1,y,p,q));
         }
         
-        // vertical slice
         for(int j = y;j<q;j++) {
             ans = Math.min(ans, oneRectMaxArea(x,y,p,j) + oneRectMaxArea(x,j+1,p,q));
         }
