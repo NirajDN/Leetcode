@@ -1,8 +1,14 @@
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
-        int ans = 0;
-        for(auto& num : nums) ans += (num%3 != 0);
-        return ans;
+        int n =nums.size();
+        int count=0;
+        for(int i=0;i<n;i++){
+            if(nums[i]%3!=0){
+                count++;
+            }
+        }
+        return count;
+        
     }
 };
