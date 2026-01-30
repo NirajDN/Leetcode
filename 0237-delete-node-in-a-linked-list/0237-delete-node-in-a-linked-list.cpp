@@ -12,6 +12,6 @@ public:
         ListNode* newNode=node->next;
         node->val=node->next->val;
         node->next=node->next->next;
-        return;
+    
     }
 };
