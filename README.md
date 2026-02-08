@@ -150,6 +150,7 @@
 | [0110-balanced-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [0110-balanced-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,9 +166,18 @@
 | [0110-balanced-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NirajDN/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
