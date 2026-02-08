@@ -147,12 +147,15 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
