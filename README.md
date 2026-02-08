@@ -172,6 +172,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/NirajDN/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/NirajDN/Leetcode/tree/master/0322-coin-change) |
 ## String Matching
 |  |
 | ------- |
@@ -180,4 +181,12 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/NirajDN/Leetcode/tree/master/0322-coin-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/NirajDN/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
