@@ -148,21 +148,25 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/NirajDN/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NirajDN/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NirajDN/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NirajDN/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
