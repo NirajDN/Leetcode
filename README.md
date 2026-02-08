@@ -184,6 +184,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NirajDN/Leetcode/tree/master/0048-rotate-image) |
 | [0322-coin-change](https://github.com/NirajDN/Leetcode/tree/master/0322-coin-change) |
 | [0739-daily-temperatures](https://github.com/NirajDN/Leetcode/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
@@ -198,4 +199,12 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/NirajDN/Leetcode/tree/master/0739-daily-temperatures) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/NirajDN/Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/NirajDN/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
