@@ -128,16 +128,7 @@
 | [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1582-design-browser-history](https://github.com/NirajDN/Leetcode/tree/master/1582-design-browser-history) |
 
-### Two Pointers
-| Problem |
-| ------ |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/NirajDN/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NirajDN/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
-| [0141-linked-list-cycle](https://github.com/NirajDN/Leetcode/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/NirajDN/Leetcode/tree/master/0142-linked-list-cycle-ii) |
-| [0160-intersection-of-two-linked-lists](https://github.com/NirajDN/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
-| [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
+#
 
 <!--- LeetCode Topics End --->
 
@@ -207,4 +198,26 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/NirajDN/Leetcode/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NirajDN/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/NirajDN/Leetcode/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/NirajDN/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/NirajDN/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NirajDN/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NirajDN/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1582-design-browser-history](https://github.com/NirajDN/Leetcode/tree/master/1582-design-browser-history) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NirajDN/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NirajDN/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/NirajDN/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/NirajDN/Leetcode/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/NirajDN/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NirajDN/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NirajDN/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
