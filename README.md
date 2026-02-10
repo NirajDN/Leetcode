@@ -177,6 +177,7 @@
 | [0739-daily-temperatures](https://github.com/NirajDN/Leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/NirajDN/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [3719-longest-balanced-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -243,4 +245,16 @@
 | ------- |
 | [0179-largest-number](https://github.com/NirajDN/Leetcode/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
+## Hash Table
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
