@@ -169,6 +169,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/NirajDN/Leetcode/tree/master/0179-largest-number) |
 | [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3713-longest-balanced-substring-i](https://github.com/NirajDN/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/NirajDN/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NirajDN/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
@@ -289,4 +291,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/NirajDN/Leetcode/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/NirajDN/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/NirajDN/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
