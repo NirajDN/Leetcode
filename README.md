@@ -177,6 +177,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/NirajDN/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/NirajDN/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/NirajDN/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/NirajDN/Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/NirajDN/Leetcode/tree/master/0179-largest-number) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/NirajDN/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/NirajDN/Leetcode/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
