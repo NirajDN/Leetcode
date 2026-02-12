@@ -184,6 +184,7 @@
 | [0739-daily-temperatures](https://github.com/NirajDN/Leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NirajDN/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1672-richest-customer-wealth](https://github.com/NirajDN/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/NirajDN/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3719-longest-balanced-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NirajDN/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/NirajDN/Leetcode/tree/master/0048-rotate-image) |
+| [1672-richest-customer-wealth](https://github.com/NirajDN/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
 | ------- |
