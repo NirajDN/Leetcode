@@ -299,4 +299,8 @@
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/NirajDN/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/NirajDN/Leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
