@@ -167,6 +167,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/NirajDN/Leetcode/tree/master/0179-largest-number) |
 | [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [3713-longest-balanced-substring-i](https://github.com/NirajDN/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -214,6 +215,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/NirajDN/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/NirajDN/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/NirajDN/Leetcode/tree/master/0136-single-number) |
 ## Counting
 |  |
@@ -307,4 +310,8 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/NirajDN/Leetcode/tree/master/1791-find-center-of-star-graph) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
