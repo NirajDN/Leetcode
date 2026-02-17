@@ -304,6 +304,7 @@
 | [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/NirajDN/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/NirajDN/Leetcode/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/NirajDN/Leetcode/tree/master/0401-binary-watch) |
 ## Counting
 |  |
 | ------- |
@@ -320,4 +321,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/NirajDN/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
