@@ -204,6 +204,7 @@
 | [1672-richest-customer-wealth](https://github.com/NirajDN/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/NirajDN/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1991-find-the-middle-index-in-array](https://github.com/NirajDN/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/NirajDN/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NirajDN/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3719-longest-balanced-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NirajDN/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -278,6 +279,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/NirajDN/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/NirajDN/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/NirajDN/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NirajDN/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search Tree
 |  |
@@ -293,6 +295,7 @@
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NirajDN/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NirajDN/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/NirajDN/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NirajDN/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
@@ -313,6 +316,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/NirajDN/Leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/NirajDN/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/NirajDN/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3714-longest-balanced-substring-ii](https://github.com/NirajDN/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NirajDN/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -336,6 +340,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/NirajDN/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3713-longest-balanced-substring-i](https://github.com/NirajDN/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Graph Theory
 |  |
