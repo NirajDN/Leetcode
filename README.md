@@ -203,6 +203,7 @@
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NirajDN/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NirajDN/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NirajDN/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1672-richest-customer-wealth](https://github.com/NirajDN/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/NirajDN/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1991-find-the-middle-index-in-array](https://github.com/NirajDN/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -239,6 +240,7 @@
 | [0048-rotate-image](https://github.com/NirajDN/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/NirajDN/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/NirajDN/Leetcode/tree/master/0733-flood-fill) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NirajDN/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1672-richest-customer-wealth](https://github.com/NirajDN/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -281,6 +283,7 @@
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NirajDN/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NirajDN/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NirajDN/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/NirajDN/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/NirajDN/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
