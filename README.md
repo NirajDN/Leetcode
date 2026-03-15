@@ -245,6 +245,7 @@
 | [0066-plus-one](https://github.com/NirajDN/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NirajDN/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1622-fancy-sequence](https://github.com/NirajDN/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NirajDN/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NirajDN/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
@@ -335,6 +336,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/NirajDN/Leetcode/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NirajDN/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -417,4 +419,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NirajDN/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/NirajDN/Leetcode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
