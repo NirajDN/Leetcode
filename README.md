@@ -240,6 +240,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NirajDN/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NirajDN/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NirajDN/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/NirajDN/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/NirajDN/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/NirajDN/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NirajDN/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -372,6 +373,7 @@
 | [0098-validate-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NirajDN/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/NirajDN/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NirajDN/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/NirajDN/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
@@ -399,6 +401,7 @@
 | [1980-find-unique-binary-string](https://github.com/NirajDN/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NirajDN/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NirajDN/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3488-closest-equal-element-queries](https://github.com/NirajDN/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/NirajDN/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/NirajDN/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/NirajDN/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
