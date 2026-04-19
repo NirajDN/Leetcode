@@ -224,6 +224,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NirajDN/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/NirajDN/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/NirajDN/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/NirajDN/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NirajDN/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/NirajDN/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -341,6 +342,7 @@
 | [0234-palindrome-linked-list](https://github.com/NirajDN/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/NirajDN/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/NirajDN/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/NirajDN/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
 |  |
@@ -375,6 +377,7 @@
 | [0074-search-a-2d-matrix](https://github.com/NirajDN/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/NirajDN/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NirajDN/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/NirajDN/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NirajDN/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
