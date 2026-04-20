@@ -229,6 +229,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NirajDN/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/NirajDN/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/NirajDN/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/NirajDN/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/NirajDN/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NirajDN/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2463-minimum-total-distance-traveled](https://github.com/NirajDN/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -365,6 +366,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NirajDN/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NirajDN/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/NirajDN/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/NirajDN/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/NirajDN/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NirajDN/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2573-find-the-string-with-lcp](https://github.com/NirajDN/Leetcode/tree/master/2573-find-the-string-with-lcp) |
