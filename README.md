@@ -232,6 +232,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NirajDN/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NirajDN/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/NirajDN/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/NirajDN/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NirajDN/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NirajDN/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/NirajDN/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -452,6 +453,7 @@
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/NirajDN/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NirajDN/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/NirajDN/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/NirajDN/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NirajDN/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2615-sum-of-distances](https://github.com/NirajDN/Leetcode/tree/master/2615-sum-of-distances) |
@@ -476,6 +478,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/NirajDN/Leetcode/tree/master/0724-find-pivot-index) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/NirajDN/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1991-find-the-middle-index-in-array](https://github.com/NirajDN/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/NirajDN/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
