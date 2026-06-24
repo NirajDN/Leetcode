@@ -2,22 +2,19 @@ class Solution {
 public:
     vector<vector<int>> minimumAbsDifference(vector<int>& arr) {
         int n=arr.size();
+        vector<vector<int>> ans;
         sort(arr.begin(),arr.end());
-        int diff=0;
-        if(n<2) return {};
-        int mindiff=arr[1]-arr[0];
-
-        for(int i=0;i<n-1;i++){
-            diff=arr[i+1]-arr[i];
-            mindiff=min(diff,mindiff);
-        }
-        vector<vector<int>> arr1;
-        for(int i=0;i<n-1;i++){
-            if(arr[i+1]-arr[i]==mindiff){
-                arr1.push_back({arr[i],arr[i+1]});
+        int mindiff=INT_MAX;
+        for(int i=1;i<n;i++){
+           int diff=arr[i]-arr[i-1];
+           if(diff<mindiff){
+                mindiff=diff;
+                ans.clear();
+           }
+            if(diff==mindiff){
+                ans.push_back({arr[i-1],arr[i]});
             }
         }
-        return arr1;
-        
+    return ans;
     }
 };
