@@ -244,6 +244,7 @@
 | [0739-daily-temperatures](https://github.com/NirajDN/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/NirajDN/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1200-minimum-absolute-difference](https://github.com/NirajDN/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NirajDN/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-jump-game-iii](https://github.com/NirajDN/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/NirajDN/Leetcode/tree/master/1340-jump-game-v) |
@@ -517,6 +518,7 @@
 | [0179-largest-number](https://github.com/NirajDN/Leetcode/tree/master/0179-largest-number) |
 | [0761-special-binary-string](https://github.com/NirajDN/Leetcode/tree/master/0761-special-binary-string) |
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1200-minimum-absolute-difference](https://github.com/NirajDN/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NirajDN/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1340-jump-game-v](https://github.com/NirajDN/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NirajDN/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
