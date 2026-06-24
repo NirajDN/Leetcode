@@ -327,6 +327,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NirajDN/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/NirajDN/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/NirajDN/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/NirajDN/Leetcode/tree/master/0396-rotate-function) |
@@ -368,6 +369,7 @@
 | [0048-rotate-image](https://github.com/NirajDN/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/NirajDN/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/NirajDN/Leetcode/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/NirajDN/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NirajDN/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -722,5 +724,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NirajDN/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
