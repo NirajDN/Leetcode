@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int totalrob(int i,int n,vector<int>&nums,vector<int>&dp){
+    int totalrob(int i,int n,vector<int>&nums,vector<int> &dp){
         if(i>=n){
             return 0;
         }
@@ -11,11 +11,12 @@ public:
         int rob=nums[i]+totalrob(i+2,n,nums,dp);
         int not_rob=0+totalrob(i+1,n,nums,dp);
         return dp[i]=max(rob,not_rob);
+
     }
     int rob(vector<int>& nums) {
         int n=nums.size();
-        vector<int>dp(n+1,-1);
+        vector<int> dp(n+1,-1);
         return totalrob(0,n,nums,dp);
-
+        
     }
 };
