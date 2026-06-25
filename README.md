@@ -328,6 +328,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/NirajDN/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NirajDN/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/NirajDN/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/NirajDN/Leetcode/tree/master/0322-coin-change) |
@@ -369,6 +370,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/NirajDN/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/NirajDN/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/NirajDN/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/NirajDN/Leetcode/tree/master/0070-climbing-stairs) |
@@ -730,4 +732,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/NirajDN/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/NirajDN/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
