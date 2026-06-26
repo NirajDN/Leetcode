@@ -2,20 +2,27 @@ class Solution {
 public:
 
     int calc(int i, int j,int r, int c,vector<vector<int>>& grid,vector<vector<int>>&dp){
-        if(i==0 && j==0){
-            return grid[i][j];
+         dp[0][0]=grid[0][0];
+        for(int i=0;i<r;i++){
+            for(int j=0;j<c;j++){
+                if(i==0 &&j==0){
+                    dp[0][0]=grid[0][0];
+                }
+                else{
+                int up=1e9;
+                int lef=1e9;
+                if(i>0){
+                up=grid[i][j]+dp[i-1][j];
+                }
+                if(j>0){
+                lef=grid[i][j]+dp[i][j-1];
+                } 
+                dp[i][j]=min(up,lef);
+                }
+            }
         }
-        if(i<0 || j<0){
-            return 1e9;
-        }
+        return dp[r-1][c-1];
 
-        if(dp[i][j]!=-1){
-            return dp[i][j];
-        }
-
-        int up=grid[i][j]+calc(i-1,j,r,c,grid,dp);
-        int lef=grid[i][j]+calc(i,j-1,r,c,grid,dp);
-        return dp[i][j]=min(up,lef);
     }
     int minPathSum(vector<vector<int>>& grid) {
         int r = grid.size();  
