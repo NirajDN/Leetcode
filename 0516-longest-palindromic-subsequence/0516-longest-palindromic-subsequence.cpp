@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(int i, int j, int m, int n, string text1, string text2,
+    int solve(int i, int j, int m, int n, string s1, string s2,
               vector<vector<int>>& dp) {
 
         vector<int> prev(n, 0), curr(n, 0);
@@ -8,7 +8,7 @@ public:
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
 
-                if (text1[i] == text2[j]) {
+                if (s1[i] == s2[j]) {
 
                     int a = 0;
                     if (i > 0 && j > 0)
@@ -38,12 +38,12 @@ public:
 
     int longestPalindromeSubseq(string s) {
 
-        string text1 = s;
-        string text2 = s;
-        reverse(text2.begin(), text2.end());
+        string s1 = s;
+        string s2 = s;
+        reverse(s2.begin(), s2.end());
 
-        int m = text1.size();
-        int n = text2.size();
+        int m = s1.size();
+        int n = s2.size();
 
         if (m == 0) return 0;
 
@@ -52,6 +52,6 @@ public:
 
         vector<vector<int>> dp(m, vector<int>(n, -1));
 
-        return solve(i, j, m, n, text1, text2, dp);
+        return solve(i, j, m, n, s1, s2, dp);
     }
 };
