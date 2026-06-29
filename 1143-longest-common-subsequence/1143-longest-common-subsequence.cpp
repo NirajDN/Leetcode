@@ -8,9 +8,6 @@ public:
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(i<0 || j<0){
-                    return 0;
-                }
                 if(text1[i]==text2[j]){
                     int a=0;
                     if(i>0 && j>0){
