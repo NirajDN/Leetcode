@@ -389,6 +389,7 @@
 | [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/NirajDN/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/NirajDN/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/NirajDN/Leetcode/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/NirajDN/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NirajDN/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -712,6 +713,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/NirajDN/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/NirajDN/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NirajDN/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
