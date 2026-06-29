@@ -187,6 +187,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/NirajDN/Leetcode/tree/master/0179-largest-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/NirajDN/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0696-count-binary-substrings](https://github.com/NirajDN/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/NirajDN/Leetcode/tree/master/0761-special-binary-string) |
@@ -345,6 +346,7 @@
 | [0322-coin-change](https://github.com/NirajDN/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/NirajDN/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/NirajDN/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0788-rotated-digits](https://github.com/NirajDN/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/NirajDN/Leetcode/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/NirajDN/Leetcode/tree/master/1143-longest-common-subsequence) |
