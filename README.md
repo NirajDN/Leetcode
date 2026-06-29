@@ -388,6 +388,7 @@
 | [0066-plus-one](https://github.com/NirajDN/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/NirajDN/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/NirajDN/Leetcode/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/NirajDN/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NirajDN/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -637,6 +638,7 @@
 | [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/NirajDN/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/NirajDN/Leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/NirajDN/Leetcode/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/NirajDN/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/NirajDN/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NirajDN/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -709,6 +711,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/NirajDN/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NirajDN/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
