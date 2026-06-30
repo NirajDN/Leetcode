@@ -230,6 +230,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NirajDN/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NirajDN/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/NirajDN/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -569,6 +570,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NirajDN/Leetcode/tree/master/0001-two-sum) |
 | [0874-walking-robot-simulation](https://github.com/NirajDN/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/NirajDN/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/NirajDN/Leetcode/tree/master/1345-jump-game-iv) |
