@@ -188,6 +188,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/NirajDN/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/NirajDN/Leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/NirajDN/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0696-count-binary-substrings](https://github.com/NirajDN/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -563,6 +564,7 @@
 | [0169-majority-element](https://github.com/NirajDN/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NirajDN/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/NirajDN/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NirajDN/Leetcode/tree/master/0242-valid-anagram) |
 | [0761-special-binary-string](https://github.com/NirajDN/Leetcode/tree/master/0761-special-binary-string) |
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/NirajDN/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -595,6 +597,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/NirajDN/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NirajDN/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NirajDN/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NirajDN/Leetcode/tree/master/0242-valid-anagram) |
 | [0874-walking-robot-simulation](https://github.com/NirajDN/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/NirajDN/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/NirajDN/Leetcode/tree/master/1345-jump-game-iv) |
