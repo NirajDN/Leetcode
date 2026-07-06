@@ -4,8 +4,7 @@ public:
         int n=arr.size();
         sort(arr.begin(),arr.end());
         int mindiff=INT_MAX;
-        vector<vector<int>> ans;
-
+        vector<vector<int>>ans;
         for(int i=1;i<n;i++){
             int diff=arr[i]-arr[i-1];
 
@@ -13,8 +12,9 @@ public:
                 mindiff=diff;
                 ans.clear();
             }
-            if(diff==mindiff){
-                ans.push_back({arr[i-1], arr[i]});
+
+            if(mindiff==diff){
+                ans.push_back ({arr[i-1],arr[i]});
             }
         }
         return ans;
