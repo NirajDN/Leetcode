@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/NirajDN/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/NirajDN/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/NirajDN/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/NirajDN/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
@@ -552,6 +555,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/NirajDN/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/NirajDN/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NirajDN/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NirajDN/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NirajDN/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
