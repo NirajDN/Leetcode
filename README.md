@@ -159,6 +159,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NirajDN/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NirajDN/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2685-count-the-number-of-complete-components](https://github.com/NirajDN/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [1345-jump-game-iv](https://github.com/NirajDN/Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NirajDN/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/NirajDN/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NirajDN/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NirajDN/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching
@@ -732,6 +734,7 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/NirajDN/Leetcode/tree/master/1791-find-center-of-star-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/NirajDN/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NirajDN/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NirajDN/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NirajDN/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -800,6 +803,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/NirajDN/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NirajDN/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/NirajDN/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/NirajDN/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NirajDN/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NirajDN/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
