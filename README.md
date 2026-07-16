@@ -259,6 +259,7 @@
 | [0283-move-zeroes](https://github.com/NirajDN/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/NirajDN/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/NirajDN/Leetcode/tree/master/0396-rotate-function) |
+| [0643-maximum-average-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NirajDN/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/NirajDN/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/NirajDN/Leetcode/tree/master/0733-flood-fill) |
@@ -804,6 +805,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NirajDN/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/NirajDN/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NirajDN/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
