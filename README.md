@@ -198,6 +198,7 @@
 | [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0696-count-binary-substrings](https://github.com/NirajDN/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/NirajDN/Leetcode/tree/master/0761-special-binary-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NirajDN/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/NirajDN/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/NirajDN/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NirajDN/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -410,12 +411,14 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/NirajDN/Leetcode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NirajDN/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NirajDN/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/NirajDN/Leetcode/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/NirajDN/Leetcode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NirajDN/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -548,6 +551,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/NirajDN/Leetcode/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NirajDN/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NirajDN/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NirajDN/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
