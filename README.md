@@ -216,6 +216,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NirajDN/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/NirajDN/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/NirajDN/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NirajDN/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/NirajDN/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NirajDN/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/NirajDN/Leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -830,6 +831,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NirajDN/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/NirajDN/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NirajDN/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NirajDN/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Union-Find
 |  |
 | ------- |
