@@ -317,6 +317,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/NirajDN/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NirajDN/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/NirajDN/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NirajDN/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/NirajDN/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NirajDN/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/NirajDN/Leetcode/tree/master/2540-minimum-common-value) |
@@ -660,6 +661,7 @@
 | [1980-find-unique-binary-string](https://github.com/NirajDN/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/NirajDN/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NirajDN/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NirajDN/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/NirajDN/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/NirajDN/Leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/NirajDN/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -832,6 +834,7 @@
 | [1871-jump-game-vii](https://github.com/NirajDN/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NirajDN/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NirajDN/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NirajDN/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union-Find
 |  |
 | ------- |
