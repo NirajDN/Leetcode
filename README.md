@@ -287,6 +287,7 @@
 | [1345-jump-game-iv](https://github.com/NirajDN/Leetcode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NirajDN/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirajDN/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NirajDN/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NirajDN/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NirajDN/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -636,6 +637,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/NirajDN/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/NirajDN/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NirajDN/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirajDN/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NirajDN/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/NirajDN/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/NirajDN/Leetcode/tree/master/1840-maximum-building-height) |
@@ -825,6 +827,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirajDN/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NirajDN/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NirajDN/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
