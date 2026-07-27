@@ -337,6 +337,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NirajDN/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2906-construct-product-matrix](https://github.com/NirajDN/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NirajDN/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2974-minimum-number-game](https://github.com/NirajDN/Leetcode/tree/master/2974-minimum-number-game) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NirajDN/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NirajDN/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NirajDN/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -653,6 +654,7 @@
 | [2784-check-if-array-is-good](https://github.com/NirajDN/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NirajDN/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NirajDN/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2974-minimum-number-game](https://github.com/NirajDN/Leetcode/tree/master/2974-minimum-number-game) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NirajDN/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NirajDN/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NirajDN/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -813,6 +815,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/NirajDN/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/NirajDN/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NirajDN/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2974-minimum-number-game](https://github.com/NirajDN/Leetcode/tree/master/2974-minimum-number-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/NirajDN/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/NirajDN/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/NirajDN/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -830,6 +833,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirajDN/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NirajDN/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/NirajDN/Leetcode/tree/master/2974-minimum-number-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NirajDN/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NirajDN/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3620-network-recovery-pathways](https://github.com/NirajDN/Leetcode/tree/master/3620-network-recovery-pathways) |
