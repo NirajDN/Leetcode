@@ -267,6 +267,7 @@
 | [0283-move-zeroes](https://github.com/NirajDN/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/NirajDN/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/NirajDN/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/NirajDN/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NirajDN/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NirajDN/Leetcode/tree/master/0704-binary-search) |
@@ -393,6 +394,7 @@
 | [0198-house-robber](https://github.com/NirajDN/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/NirajDN/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/NirajDN/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/NirajDN/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/NirajDN/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0788-rotated-digits](https://github.com/NirajDN/Leetcode/tree/master/0788-rotated-digits) |
@@ -447,6 +449,7 @@
 | [0326-power-of-three](https://github.com/NirajDN/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NirajDN/Leetcode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/NirajDN/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/NirajDN/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NirajDN/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NirajDN/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -856,6 +859,7 @@
 | [0231-power-of-two](https://github.com/NirajDN/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/NirajDN/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NirajDN/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/NirajDN/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NirajDN/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
@@ -941,4 +945,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/NirajDN/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/NirajDN/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
