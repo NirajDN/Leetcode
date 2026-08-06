@@ -464,6 +464,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NirajDN/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/NirajDN/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NirajDN/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NirajDN/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NirajDN/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/NirajDN/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NirajDN/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -789,6 +790,7 @@
 | [1291-sequential-digits](https://github.com/NirajDN/Leetcode/tree/master/1291-sequential-digits) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/NirajDN/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NirajDN/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NirajDN/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NirajDN/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/NirajDN/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/NirajDN/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
