@@ -7,7 +7,6 @@
 
 ---
 
-
 ## 📚 Topics Covered
 
 ### 🧵 String
