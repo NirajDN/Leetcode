@@ -310,6 +310,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/NirajDN/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NirajDN/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/NirajDN/Leetcode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/NirajDN/Leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NirajDN/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -415,6 +416,7 @@
 | [1563-stone-game-v](https://github.com/NirajDN/Leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NirajDN/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/NirajDN/Leetcode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/NirajDN/Leetcode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NirajDN/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/NirajDN/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/NirajDN/Leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -469,6 +471,7 @@
 | [1622-fancy-sequence](https://github.com/NirajDN/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NirajDN/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/NirajDN/Leetcode/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/NirajDN/Leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/NirajDN/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NirajDN/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -758,6 +761,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/NirajDN/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/NirajDN/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/NirajDN/Leetcode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/NirajDN/Leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1991-find-the-middle-index-in-array](https://github.com/NirajDN/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/NirajDN/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
@@ -983,15 +987,18 @@
 | [0486-predict-the-winner](https://github.com/NirajDN/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/NirajDN/Leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/NirajDN/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/NirajDN/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/NirajDN/Leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/NirajDN/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/NirajDN/Leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/NirajDN/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/NirajDN/Leetcode/tree/master/1872-stone-game-viii) |
 ## Ordered Set
 |  |
 | ------- |
