@@ -1,26 +1,17 @@
 class Solution {
 public:
-    bool isValid(string s) {
-        int s1=s.size();
-        if(s1%2!=0) return false;
-        stack<char> st;
+    bool isValid(string& str) {
+        if (str.size() % 2)
+            return 0;
 
-        for(char &c :s){
-            if(c=='{' || c=='[' || c=='('){
-                st.push(c);
-            }
-            else {
-                if(st.empty()) return false;
-                if(st.top()== '{'&& c== '}' ||
-                st.top()== '['&& c== ']'||
-                st.top()== '('&& c== ')'){
-                    st.pop();
-                }
-                else{
-                    return false;
-                }
-            }
-        }
-        return st.empty();
+        int j = 0;
+
+        for (char s : str)
+            if ((s & 3) != 1)
+                str[j++] = s;
+            else if (j == 0 || ((s - str[--j] + 1) >> 1) != 1)
+                return 0;
+
+        return j == 0;
     }
 };
