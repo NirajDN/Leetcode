@@ -194,6 +194,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/NirajDN/Leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/NirajDN/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/NirajDN/Leetcode/tree/master/0179-largest-number) |
@@ -425,6 +426,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/NirajDN/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/NirajDN/Leetcode/tree/master/0070-climbing-stairs) |
@@ -943,6 +945,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/NirajDN/Leetcode/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/NirajDN/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NirajDN/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1093,6 +1096,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NirajDN/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NirajDN/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NirajDN/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
