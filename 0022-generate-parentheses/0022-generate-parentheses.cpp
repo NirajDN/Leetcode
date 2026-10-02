@@ -1,22 +1,25 @@
-class Solution {
-public:
-
-void recursiveF(int op,int cl,string s, vector <string> &ans){
-    if(cl==0){
-        ans.push_back(s);
-    }
-    if(cl>op){
-        recursiveF(op,cl-1,s+')',ans);
-    }
-    if(op>0){
-        recursiveF(op-1,cl,s+'(',ans);
-    }
-}
-    vector<string> generateParenthesis(int n) {
-        int op=n,cl=n;
-        string s="";
+class Solution { 
+public: 
+    vector<string> generateParenthesis(int n) { 
         vector<string> ans;
-        recursiveF(op,cl,s,ans);
+        string cur;
+        function<void(int,int)> dfs = [&](int open, int close) {
+            if (open == 0 && close == 0) {
+                ans.push_back(cur);
+                return;
+            }
+            if (open > 0) {
+                cur.push_back('(');
+                dfs(open - 1, close);
+                cur.pop_back();
+            }
+            if (close > open) {
+                cur.push_back(')');
+                dfs(open, close - 1);
+                cur.pop_back();
+            }
+        };
+        dfs(n, n);
         return ans;
-    }
+    } 
 };
