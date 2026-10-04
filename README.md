@@ -202,6 +202,7 @@
 | [0242-valid-anagram](https://github.com/NirajDN/Leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/NirajDN/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0678-valid-parenthesis-string](https://github.com/NirajDN/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/NirajDN/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/NirajDN/Leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NirajDN/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -440,6 +441,7 @@
 | [0486-predict-the-winner](https://github.com/NirajDN/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/NirajDN/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/NirajDN/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/NirajDN/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/NirajDN/Leetcode/tree/master/0799-champagne-tower) |
 | [1140-stone-game-ii](https://github.com/NirajDN/Leetcode/tree/master/1140-stone-game-ii) |
@@ -480,6 +482,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/NirajDN/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/NirajDN/Leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NirajDN/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/NirajDN/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -650,6 +653,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/NirajDN/Leetcode/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/NirajDN/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NirajDN/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NirajDN/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1101,6 +1105,7 @@
 | [0020-valid-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/NirajDN/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NirajDN/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NirajDN/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NirajDN/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
