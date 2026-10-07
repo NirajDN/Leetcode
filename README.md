@@ -179,6 +179,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/NirajDN/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/NirajDN/Leetcode/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/NirajDN/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/NirajDN/Leetcode/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/NirajDN/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -200,6 +201,7 @@
 | [0115-distinct-subsequences](https://github.com/NirajDN/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/NirajDN/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/NirajDN/Leetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/NirajDN/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0678-valid-parenthesis-string](https://github.com/NirajDN/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -958,6 +960,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/NirajDN/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/NirajDN/Leetcode/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/NirajDN/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NirajDN/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
