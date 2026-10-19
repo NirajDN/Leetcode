@@ -137,6 +137,7 @@
 | [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NirajDN/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/NirajDN/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NirajDN/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -172,6 +173,7 @@
 | [0572-subtree-of-another-tree](https://github.com/NirajDN/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NirajDN/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/NirajDN/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NirajDN/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -321,6 +323,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NirajDN/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NirajDN/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/NirajDN/Leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NirajDN/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NirajDN/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NirajDN/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -464,6 +467,7 @@
 | [1340-jump-game-v](https://github.com/NirajDN/Leetcode/tree/master/1340-jump-game-v) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NirajDN/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/NirajDN/Leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NirajDN/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NirajDN/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/NirajDN/Leetcode/tree/master/1871-jump-game-vii) |
@@ -535,6 +539,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/NirajDN/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NirajDN/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/NirajDN/Leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NirajDN/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/NirajDN/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NirajDN/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -660,6 +665,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/NirajDN/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0761-special-binary-string](https://github.com/NirajDN/Leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/NirajDN/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/NirajDN/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/NirajDN/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -721,6 +727,7 @@
 | [0875-koko-eating-bananas](https://github.com/NirajDN/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1382-balance-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NirajDN/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NirajDN/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NirajDN/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NirajDN/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1040,6 +1047,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/NirajDN/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NirajDN/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NirajDN/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/NirajDN/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/NirajDN/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1093,10 +1101,12 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/NirajDN/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/NirajDN/Leetcode/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NirajDN/Leetcode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NirajDN/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NirajDN/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/NirajDN/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1151,4 +1161,8 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NirajDN/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NirajDN/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NirajDN/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
