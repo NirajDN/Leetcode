@@ -330,6 +330,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NirajDN/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/NirajDN/Leetcode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NirajDN/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NirajDN/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirajDN/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NirajDN/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -679,6 +680,7 @@
 | [0283-move-zeroes](https://github.com/NirajDN/Leetcode/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/NirajDN/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/NirajDN/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NirajDN/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NirajDN/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/NirajDN/Leetcode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NirajDN/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -762,6 +764,7 @@
 | [0704-binary-search](https://github.com/NirajDN/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/NirajDN/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1382-balance-a-binary-search-tree](https://github.com/NirajDN/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NirajDN/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NirajDN/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NirajDN/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -803,6 +806,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/NirajDN/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/NirajDN/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NirajDN/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NirajDN/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirajDN/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NirajDN/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/NirajDN/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
