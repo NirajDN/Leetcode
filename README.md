@@ -334,6 +334,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NirajDN/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirajDN/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NirajDN/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NirajDN/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NirajDN/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NirajDN/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/NirajDN/Leetcode/tree/master/1563-stone-game-v) |
@@ -493,6 +494,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NirajDN/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/NirajDN/Leetcode/tree/master/1340-jump-game-v) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NirajDN/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NirajDN/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/NirajDN/Leetcode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NirajDN/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -571,6 +573,7 @@
 | [1140-stone-game-ii](https://github.com/NirajDN/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/NirajDN/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NirajDN/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NirajDN/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/NirajDN/Leetcode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NirajDN/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NirajDN/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -929,6 +932,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/NirajDN/Leetcode/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/NirajDN/Leetcode/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NirajDN/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NirajDN/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NirajDN/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/NirajDN/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
